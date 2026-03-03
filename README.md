@@ -72,6 +72,8 @@ Clean CSV → Python (dirty data) → SQL Server (cleaning) → Power BI (dashbo
 
 ---
 
-## 👩‍💻 Author
-**Pratiksha Dandriyal** — Data Analyst
-📧 [[LinkedIn]}(http://www.linkedin.com/in/pratikshadandriyal)
+## 👤 Author
+
+Pratiksha Dandriyal
+Data Analyst  
+[LinkedIn Profile](http://www.linkedin.com/in/pratikshadandriyal) | [GitHub Profile] (https://github.com/pratikshadandriyal)
