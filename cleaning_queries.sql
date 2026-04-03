@@ -95,6 +95,7 @@ SET automation_risk_category = CASE
 END
 WHERE automation_risk_category IS NOT NULL;
 
+
 -- Fix Year Column ("2O21" → 2021)
 UPDATE ai_jobs_dirty 
 SET year = CASE 
